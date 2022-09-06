@@ -1,5 +1,5 @@
-<div id="text"></div>
+<div id="text">test 0</div>
  
 <script>
- alert(document.cookies)
+ alert(document.cookie)
 </script>
