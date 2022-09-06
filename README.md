@@ -1,3 +1,5 @@
-# hexpwn.github.io
-
-<script>alert("test")</script>
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
