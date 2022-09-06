@@ -6,3 +6,5 @@
 <script>
  document.getElementById("cookie").innerHTML = document.cookie;
 </script>
+
+<a href="intent://scan/#Intent;component=com.instacart.client/com.instacart.client.ICMainActivity;end">Test intent scheme</a>
